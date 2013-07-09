@@ -1,5 +1,7 @@
 require 'ruby-processing'
 class FirstSketch < Processing::App
+	
+puts "whatever"
 
   def setup
     background(0, 0, 0)
